@@ -1,0 +1,15 @@
+D:\projects-dev\search-company-app\frontend-app\bin\Debug\net7.0-windows\frontend-app.exe
+D:\projects-dev\search-company-app\frontend-app\bin\Debug\net7.0-windows\frontend-app.deps.json
+D:\projects-dev\search-company-app\frontend-app\bin\Debug\net7.0-windows\frontend-app.runtimeconfig.json
+D:\projects-dev\search-company-app\frontend-app\bin\Debug\net7.0-windows\frontend-app.dll
+D:\projects-dev\search-company-app\frontend-app\bin\Debug\net7.0-windows\frontend-app.pdb
+D:\projects-dev\search-company-app\frontend-app\obj\Debug\net7.0-windows\frontend-app.csproj.AssemblyReference.cache
+D:\projects-dev\search-company-app\frontend-app\obj\Debug\net7.0-windows\frontend-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects-dev\search-company-app\frontend-app\obj\Debug\net7.0-windows\frontend-app.AssemblyInfoInputs.cache
+D:\projects-dev\search-company-app\frontend-app\obj\Debug\net7.0-windows\frontend-app.AssemblyInfo.cs
+D:\projects-dev\search-company-app\frontend-app\obj\Debug\net7.0-windows\frontend-app.csproj.CoreCompileInputs.cache
+D:\projects-dev\search-company-app\frontend-app\obj\Debug\net7.0-windows\frontend-app.dll
+D:\projects-dev\search-company-app\frontend-app\obj\Debug\net7.0-windows\refint\frontend-app.dll
+D:\projects-dev\search-company-app\frontend-app\obj\Debug\net7.0-windows\frontend-app.pdb
+D:\projects-dev\search-company-app\frontend-app\obj\Debug\net7.0-windows\frontend-app.genruntimeconfig.cache
+D:\projects-dev\search-company-app\frontend-app\obj\Debug\net7.0-windows\ref\frontend-app.dll
